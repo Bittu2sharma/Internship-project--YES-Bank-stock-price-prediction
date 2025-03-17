@@ -14,6 +14,7 @@ Low: The lowest stock price recorded during the trading session.
 
 Close: The last traded price of the stock for that day, the target feature for our models.
 
+
 Exploratory Data Analysis
 
 Studied meta-data & found number of records, null values & data types.
@@ -31,7 +32,6 @@ Separated Features(X) and Target(Y).
 Splitted the dataset into train set and test set.
 
 Model Building:
-
 Built the following models and attained 90%+ accuracy in every model:
 
 Model	Accuracy
